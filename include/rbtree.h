@@ -36,6 +36,7 @@ static inline void rb_init(struct rb_tree *tree)
 static inline void rb_node_init(struct rb_node *node)
 {
 	memset(node, 0, sizeof *node);
+	node->color = RB_RED;
 }
 
 int rb_balance(struct rb_tree *tree, struct rb_node *node);
