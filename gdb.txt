@@ -1,0 +1,6 @@
+Detaching from program: /mnt/md0/AlperSMB/Documents/aos-labs-2023-rbtree/obj/kernel/kernel, process 1
+Ending remote debugging.
+[Inferior 1 (process 1) detached]
+Detaching from program: /mnt/md0/AlperSMB/Documents/aos-labs-2023-rbtree/obj/kernel/kernel, process 1
+Ending remote debugging.
+[Inferior 1 (process 1) detached]
